@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\oyuncu1120\oyuncu1120\obj\Debug\oyuncu1120.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\oyuncu1120\oyuncu1120\obj\Debug\oyuncu1120.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\oyuncu1120\oyuncu1120\obj\Debug\oyuncu1120.Form1.resources
+C:\Users\User\source\repos\oyuncu1120\oyuncu1120\obj\Debug\oyuncu1120.Properties.Resources.resources
+C:\Users\User\source\repos\oyuncu1120\oyuncu1120\obj\Debug\oyuncu1120.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oyuncu1120\oyuncu1120\obj\Debug\oyuncu1120.csproj.CoreCompileInputs.cache
